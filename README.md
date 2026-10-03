@@ -18,6 +18,10 @@ Linkki lataa aina uusimman version. Muutokset näkyvät
    säilyvät) tai **Puhdas asennus**.
 3. Lopuksi aukeaa LUEMINUT, jossa on uudet ominaisuudet ja ohjeet.
 
+Versiosta 2.0.6 alkaen laskuri kertoo itse, kun uusi versio on
+saatavilla. Paina **Päivitä nyt**, niin laskuri päivittyy ja käynnistyy
+uudelleen – asetukset säilyvät.
+
 Mitään muuta ei tarvitse asentaa, eikä järjestelmänvalvojan oikeuksia
 tarvita. Jos Windows näyttää "Windows suojasi tietokoneesi":
 **Lisätietoja → Suorita joka tapauksessa**.
