@@ -1,10 +1,12 @@
 # PP2 Tracker
 
+🇬🇧 **English:** the counter has an English user interface, and the English guide is at the [bottom of this page](#english).
+
 Pro Pilkki 2 -pelin pelinaikainen paino- ja kappalelaskuri. Näyttää
 kisatyypin mukaisen tuloksen kalastaessa, koska peli ei itse näytä sitä.
 Toimii työpöytä- ja Microsoft Storen versiolla.
 
-## ⬇️ Lataa uusin versio
+## ⬇️ Lataa uusin versio / Download the latest version
 
 **[PP2-Tracker-asennus.exe](https://github.com/nousiainenlassi-afk/pp2-tracker-lataus/releases/latest/download/PP2-Tracker-asennus.exe)**
 
